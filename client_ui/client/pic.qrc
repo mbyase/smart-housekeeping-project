@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>3.ico</file>
+        <file>8.jpg</file>
+        <file>9.jpg</file>
+        <file>fens.ico</file>
+        <file>fens2.ico</file>
+        <file>deng.ico</file>
+        <file>fasong.ico</file>
+        <file>picture/jb.png</file>
+        <file>picture/yuying.png</file>
+        <file>picture/fens1.png</file>
+        <file>picture/fent.ico</file>
+        <file>picture/deng.ico</file>
+        <file>picture/icons8-li.png</file>
+        <file>picture/icons8-idea-64.png</file>
+        <file>picture/icons84.png</file>
+        <file>picture/ic.png</file>
+        <file>picture/icons8-light-on-48.png</file>
+        <file>picture/icons8-fan-48.png</file>
+        <file>picture/icons8-air-conditioner6.png</file>
+        <file>picture/icons8-air-conditioner-48.png</file>
+        <file>1.ico</file>
+        <file>2.ico</file>
+        <file>a.jpg</file>
+        <file>aa.png</file>
+        <file>fens2 - 副本.ico</file>
+        <file>logo.ico</file>
+        <file>picture/icons8-air-conditioner-116.png</file>
+        <file>picture/icons8-air-conditioner-80.png</file>
+        <file>picture/icons8-fan-80.png</file>
+        <file>picture/icons8-tv-48.png</file>
+        <file>picture/icons8-air-conditioner-100.png</file>
+        <file>picture/icons8-light-80.png</file>
+        <file>picture/icons8-settings-80.png</file>
+        <file>picture/icons8-tv-100.png</file>
+        <file>picture/icons8-light-on-100.png</file>
+        <file>picture/weather80.png</file>
+        <file>picture/icons8-news-100.png</file>
+        <file>picture/icons8-schedule-100.png</file>
+        <file>picture/rili.png</file>
+        <file>../beep.png</file>
+        <file>../icons8.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../beep.png</file>
+        <file>../icons8.png</file>
+    </qresource>
+</RCC>
