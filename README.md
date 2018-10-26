@@ -1,2 +1,3 @@
 # smart-housekeeping-project
-嵌入式智能管家项目
+基于嵌入式和单片机的智能管家项目
+
