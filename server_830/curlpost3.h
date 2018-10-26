@@ -1,0 +1,24 @@
+
+
+#ifndef _CURLPOST3_H
+#define _CURLPOST3_H
+// 用宏定义来代替全局变量
+
+// #define OS "Windows 7"
+
+//#define WEB_URL "http://www.baidu.com"
+//#define WEB_NAME "百度"
+// 也可以省略 extern，不过为了程序可读性，建议都写上
+  extern char * unpacket(char*  json_buffer);
+//int packet(char** json_buffer);
+
+  char * packet(char* json_buffer);
+  size_t write_callback(char *ptr, size_t size, size_t nmemb, void *userdata);
+  char * question(char *ask);
+ // void question(char *ask);
+
+ // extern long sum(int, int);
+ // extern long mult(int, int);
+ // extern char* getWebName();
+ // extern char* getWebURL();
+#endif
